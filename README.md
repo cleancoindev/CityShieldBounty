@@ -22,7 +22,10 @@ Italy is in lockdown somewhat so I am attempting to contact the team one at a ti
 
 So far I have written the Scientific Partnership person and he did not reply for 2 days now.  I will write the CEO next.
 
+
+{{{{{{{{{{{{{{{{{}}}}}}}}}}}}}}}}}}}}
 *** UPDATE 3:  I got in touch with the CTO and he has put me in touch with the CEO.  The CERN spinoff project is interested!  Green Light!  Moving forward....
+{{{{{{{{{{{{{{{{{}}}}}}}}}}}}}}}}}}}}
 
 I have already the partnership with Sky Solutions 501c3 set up.  
 
