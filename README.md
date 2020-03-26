@@ -2,7 +2,7 @@
 This solution is a CityShield grid that pays all people in cryptocurrency to monitor the pollution in their cars or local homes and they get blockchain stored to keep them from being modified by corrupted actors at the gov level.  This project works with a Deep Tech charity that has technology that removes 50% of the pollution in a given city once installed.  Intersection level management is possible with the high resolution CityShield.  This project with crypto implementation removes the corruption and accountability issues and allows the data to become immutable and thus, a trustworthy peer reviewable data source for science.
 
 
-====================================================================================
+=================================================================
 
 Update 1:
 
@@ -52,7 +52,7 @@ future.
 All the code we need is already done, we just need to weave it all together and I'd like to hear the guidance of the 
 Brazilian Green Economic specialists for guidance on some of the more detailed and nuanced systems in the carbon credit project 
 that is ongoing parallel to the pollution work. 
-============================================================================================================
+=============================================================
 
 
 Update 2:
