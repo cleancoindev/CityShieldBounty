@@ -1,3 +1,13 @@
+Update 4: This repo is a temporary work place holder until the Mentors and Staff work with me and Extend the deadline.
+
+I will continue work on this, I submitted work to comply to the deadlines. All deliverables will be delivered by the 8th of APR if possible but if no extension is granted this project will remain mostly Thought-ware. I have asked for a 2 week extension for everyone due to illness slowing down my italian and other members of the team which is global.
+
+Now people from Germany, Canada, Brazil and Italy are involved. This is getting interesting...let's not abort it but give it a chance to continue so all software is completed and marketing aspects/sites made.
+
+There are software I can move to the repo if need be but there is no need to do so yet if the CoVid19 extension is not added by the staff....so I submitted my work to comply to the deadline of submission.
+
+This does not mean this project is done at all, it has indeed just began and the mentors are helping this coming week to prepare it for judgement etc. Thanks for reading the updates!
+
 # CityShieldBounty
 This solution is a CityShield grid that pays all people in cryptocurrency to monitor the pollution in their cars or local homes and they get blockchain stored to keep them from being modified by corrupted actors at the gov level.  This project works with a Deep Tech charity that has technology that removes 50% of the pollution in a given city once installed.  Intersection level management is possible with the high resolution CityShield.  This project with crypto implementation removes the corruption and accountability issues and allows the data to become immutable and thus, a trustworthy peer reviewable data source for science.
 
