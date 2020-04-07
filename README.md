@@ -1,4 +1,4 @@
-UPDATE 5:
+UPDATE 5 - 4-7-2020:
 
 I have yielded my stake in this hackathon to Raphael of co2ken.
 
