@@ -1,3 +1,17 @@
+UPDATE 5:
+
+I have yielded my stake in this hackathon to Raphael of co2ken.
+
+It is my wish he wins the Carbon Bounty.  May the judges wisely choose him as the winner and make this honorable withdrawl worth the loss of the possible 10k bounty.
+
+Raphael has stated interest in working with me on further projects.  Thank you, staff, for introducing us.  His project is amazing.
+
+May he and his team win! 
+
+
+
+
+===============================================================
 Update 4: This repo is a temporary work place holder until the Mentors and Staff work with me and Extend the deadline.
 
 I will continue work on this, I submitted work to comply to the deadlines. All deliverables will be delivered by the 8th of APR if possible but if no extension is granted this project will remain mostly Thought-ware. I have asked for a 2 week extension for everyone due to illness slowing down my italian and other members of the team which is global.
