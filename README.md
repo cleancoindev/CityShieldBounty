@@ -1,3 +1,9 @@
+UPDATE 5:
+
+Video about the DeepTech Charity supporting this work and who is seeking support from the world but fundraising has been lacking so far and I can only do so much alone.
+
+https://github.com/cleancoindev/CityShieldBounty/blob/master/SkySolution%20Air%20Pollution%20Mitigation%20Prototype%20Lab%20%26%20Field%20Trial%20Results.mp4
+
 
 Update 4: This repo is a temporary work place holder until the Mentors and Staff work with me and Extend the deadline.
 
