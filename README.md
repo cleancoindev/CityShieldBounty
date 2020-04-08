@@ -5,6 +5,13 @@ Video about the DeepTech Charity supporting this work and who is seeking support
 https://github.com/cleancoindev/CityShieldBounty/blob/master/SkySolution%20Air%20Pollution%20Mitigation%20Prototype%20Lab%20%26%20Field%20Trial%20Results.mp4
 
 
+Here is the code I will be using to integrate with a carbon credit and asset settlement token that is build to merge with this project so as to offset all carbon burned from each transaction.
+
+Its token it plans to merge with is this: 
+ -- a fork of USDC -  https://github.com/cleancoindev/FCo2-tokens
+
+=========================================================================
+
 Update 4: This repo is a temporary work place holder until the Mentors and Staff work with me and Extend the deadline.
 
 I will continue work on this, I submitted work to comply to the deadlines. All deliverables will be delivered by the 8th of APR if possible but if no extension is granted this project will remain mostly Thought-ware. I have asked for a 2 week extension for everyone due to illness slowing down my italian and other members of the team which is global.
