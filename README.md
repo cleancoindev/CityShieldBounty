@@ -9,6 +9,8 @@ https://github.com/cleancoindev/CityShieldBounty/blob/master/SkySolution%20Air%2
 
 Here is the code I will be using to integrate with a carbon credit and asset settlement token that is build to merge with this project so as to offset all carbon burned from each transaction.
 
+https://github.com/DeFi-Coder-News-Letter/FCO2ken
+
 Its token it plans to merge with is this: 
  -- a fork of USDC -  https://github.com/cleancoindev/FCo2-tokens
 
