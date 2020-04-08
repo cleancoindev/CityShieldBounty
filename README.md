@@ -1,3 +1,9 @@
+
+# CityShieldBounty
+This solution is a CityShield grid that pays all people in cryptocurrency to monitor the pollution in their cars or local homes and they get blockchain stored to keep them from being modified by corrupted actors at the gov level.  This project works with a Deep Tech charity that has technology that removes 50% of the pollution in a given city once installed.  Intersection level management is possible with the high resolution CityShield.  This project with crypto implementation removes the corruption and accountability issues and allows the data to become immutable and thus, a trustworthy peer reviewable data source for science.
+
+===================================================================
+
 UPDATE 5:
 
 Video about the DeepTech Charity supporting this work and who is seeking support from the world but fundraising has been lacking so far and I can only do so much alone.
@@ -26,8 +32,6 @@ There are software I can move to the repo if need be but there is no need to do 
 
 This does not mean this project is done at all, it has indeed just began and the mentors are helping this coming week to prepare it for judgement etc. Thanks for reading the updates!
 
-# CityShieldBounty
-This solution is a CityShield grid that pays all people in cryptocurrency to monitor the pollution in their cars or local homes and they get blockchain stored to keep them from being modified by corrupted actors at the gov level.  This project works with a Deep Tech charity that has technology that removes 50% of the pollution in a given city once installed.  Intersection level management is possible with the high resolution CityShield.  This project with crypto implementation removes the corruption and accountability issues and allows the data to become immutable and thus, a trustworthy peer reviewable data source for science.
 
 
 =================================================================
