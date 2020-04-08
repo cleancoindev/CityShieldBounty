@@ -4,6 +4,8 @@ Video about the DeepTech Charity supporting this work and who is seeking support
 
 https://github.com/cleancoindev/CityShieldBounty/blob/master/SkySolution%20Air%20Pollution%20Mitigation%20Prototype%20Lab%20%26%20Field%20Trial%20Results.mp4
 
+{Heres a hosted version if you don't want to download it.  Please ignore the terrible ads on this video sharing site.}
+{ https://www.veoh.com/watch/v1420092054RHtqAh6 }
 
 Here is the code I will be using to integrate with a carbon credit and asset settlement token that is build to merge with this project so as to offset all carbon burned from each transaction.
 
